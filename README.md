@@ -1,1 +1,1 @@
-# vault-playground
+# Learning Vault
